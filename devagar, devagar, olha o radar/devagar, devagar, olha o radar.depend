@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680640495 source:c:\users\admin\desktop\devagar, devagar, olha o radar\main.c
+	<stdio.h>
+	<stdlib.h>
+

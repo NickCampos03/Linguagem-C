@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680614934 source:c:\users\aluno\desktop\equacao segundo grau\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
