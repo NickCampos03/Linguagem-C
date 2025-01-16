@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1719286693 source:c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno\arquivo.c
+	<string.h>
+	"arquivo.h"
+	"constantes.h"
+	"refCruzada.h"
+
+1718052758 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno\arquivo.h
+	<stdio.h>
+	<stdbool.h>
+	"refCruzada.h"
+
+1717976192 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno\refcruzada.h
+	<stdio.h>
+	<stdbool.h>
+	<regex.h>
+
+1702884768 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno\regex\include\regex.h
+	<tre/tre.h>
+
+1706878942 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno\regex\include\tre\tre.h
+	"../local_includes/tre-config.h"
+	"tre-config.h"
+	<sys/types.h>
+	<libutf8.h>
+	<wchar.h>
+
+1706878942 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno\regex\include\tre\tre-config.h
+
+1717798804 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno\constantes.h
+
+1717969178 source:c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<stdbool.h>
+	<locale.h>
+	"refCruzada.h"
+	"arquivo.h"
+	"constantes.h"
+
+1578568560 source:c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno\stringaux.c
+	<ctype.h>
+	<string.h>
+	"constantes.h"
+	"stringaux.h"
+
+1578516732 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno\stringaux.h
+
+1719329815 source:c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno\refcruzada.c
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"constantes.h"
+	"refCruzada.h"
+	"arquivo.h"
+	"stringaux.h"
+
+1719286694 source:c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno oficial\referenciacruzadalistaligada-x64-aluno\arquivo.c
+	<string.h>
+	"arquivo.h"
+	"constantes.h"
+	"refCruzada.h"
+
+1718052758 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno oficial\referenciacruzadalistaligada-x64-aluno\arquivo.h
+	<stdio.h>
+	<stdbool.h>
+	"refCruzada.h"
+
+1717976192 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno oficial\referenciacruzadalistaligada-x64-aluno\refcruzada.h
+	<stdio.h>
+	<stdbool.h>
+	<regex.h>
+
+1702884768 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno oficial\referenciacruzadalistaligada-x64-aluno\regex\include\regex.h
+	<tre/tre.h>
+
+1706878942 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno oficial\referenciacruzadalistaligada-x64-aluno\regex\include\tre\tre.h
+	"../local_includes/tre-config.h"
+	"tre-config.h"
+	<sys/types.h>
+	<libutf8.h>
+	<wchar.h>
+
+1706878942 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno oficial\referenciacruzadalistaligada-x64-aluno\regex\include\tre\tre-config.h
+
+1717798804 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno oficial\referenciacruzadalistaligada-x64-aluno\constantes.h
+
+1717969178 source:c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno oficial\referenciacruzadalistaligada-x64-aluno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<stdbool.h>
+	<locale.h>
+	"refCruzada.h"
+	"arquivo.h"
+	"constantes.h"
+
+1719329816 source:c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno oficial\referenciacruzadalistaligada-x64-aluno\refcruzada.c
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"constantes.h"
+	"refCruzada.h"
+	"arquivo.h"
+	"stringaux.h"
+
+1578516732 c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno oficial\referenciacruzadalistaligada-x64-aluno\stringaux.h
+
+1578568560 source:c:\users\user\desktop\referenciacruzadalistaligada-projeto\referenciacruzadalistaligada-x64-aluno oficial\referenciacruzadalistaligada-x64-aluno\stringaux.c
+	<ctype.h>
+	<string.h>
+	"constantes.h"
+	"stringaux.h"
+

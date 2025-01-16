@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ReferenciaCruzadaListaLig-x64" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ReferenciaCruzadaListaLig-x64" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters='&quot;.\entrada\O Hobbit2.txt&quot; saida.csv' />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-static-libstdc++" />
+					<Add option="-static-libgcc" />
+					<Add option="-static" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ReferenciaCruzadaListaLig-x64" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-ggdb" />
+			<Add directory="regex/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-ggdb" />
+			<Add library="regex.dll" />
+			<Add directory="regex/lib" />
+		</Linker>
+		<Unit filename="arquivo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arquivo.h" />
+		<Unit filename="constantes.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="refCruzada.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="refCruzada.h" />
+		<Unit filename="stringaux.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stringaux.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
